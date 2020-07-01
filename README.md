@@ -2,6 +2,8 @@
 * Idea taken from a skillcrush blog on ideas for JavaScript projects. 
 I decided to write my own code from scratch as a challenge and add pictures of my cat! 
 
+# Link to live code: https://wildelyssa.github.io/LolcatClock/
+
 Credit to www.skillcrush.com for some great JS project ideas.
 
 ## Tech Used
