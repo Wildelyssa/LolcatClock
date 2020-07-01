@@ -1,4 +1,4 @@
-##Lolcat Clock
+## Lolcat Clock
 * Idea taken from a skillcrush blog on ideas for JavaScript projects. 
 I decided to write my own code from scratch as a challenge and add pictures of my cat! 
 
@@ -9,7 +9,7 @@ Credit to www.skillcrush.com for some great JS project ideas.
 
 ## Purpose
 
-# A 12 hour clock which displays images dependant on different times set by defaults, or set by the user
+A 12 hour clock which displays images dependant on different times set by defaults, or set by the user
 
 ## Features
 * Responsive design accross all screen types
