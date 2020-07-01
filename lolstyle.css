@@ -1,0 +1,112 @@
+body {
+	margin: 0;
+	font-family: 'Bungee Inline', cursive;
+	background: linear-gradient(to top right, rgb(238, 119, 149), rgb(255, 102, 153), rgb(238, 119, 149));
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-family: 'Bungee', cursive;
+}
+
+.title {
+	margin: 2rem 0 0.5rem 0;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-family: 'Bungee Inline', cursive;
+	font-family: 'Bungee Shade', cursive;
+}
+
+.header {
+	margin-top: 0;
+	margin-bottom: 3rem;
+	font-family: 'Bungee Inline', cursive;
+}
+
+#clock {
+	font-size: 3rem;
+	/*border: ridge;*/
+	/*background: #FEF9D4;*/
+	margin-bottom: 0.5rem;
+}
+
+#catImage {
+	width: 30rem;
+	height: 30rem;
+	border: double;
+	border-radius: 0.5rem;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	margin-top: 4.5rem;
+}
+
+select {
+	padding: 0.5rem;
+	border-radius: 0.3rem;
+}
+
+label {
+	padding: 0.5rem 0.5rem 0.5rem 0.8rem;
+}
+
+#partyBtn {
+	margin-top: 1.3rem;
+	font-family:'Bungee', cursive ;
+	font-size: 1.5rem;
+	color: pink;
+	background: black;
+	width: 20%;
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+}
+
+#partyBtn:hover {
+	background: yellow;
+}
+
+footer {
+	text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+
+	.container {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+	}
+
+	#partyBtn {
+		width: 30%;
+		font-size: 1.2rem;
+	}
+}
+
+@media screen and (max-width: 500px) {
+
+	#catImage {
+		width: 15rem;
+		height: 15rem;
+	}
+
+	#clock {
+		font-size: 2rem;
+	}
+
+	.title {
+		font-size: 1.5rem;
+	}
+
+	label {
+		padding: 0.5rem 0.5rem 0.5rem 0;
+	}
+
+	#partyBtn {
+		width: 55%;
+		font-size: 1.2rem;
+	}
+}
