@@ -1,5 +1,5 @@
 ## Lolcat Clock
-* Idea taken from a skillcrush blog on ideas for JavaScript projects. 
+Practise project idea from a skillcrush blog which lists ideas for JavaScript projects. 
 I decided to write my own code from scratch as a challenge and add pictures of my cat! 
 
 ## Link to live code: https://wildelyssa.github.io/LolcatClock/
@@ -7,7 +7,7 @@ I decided to write my own code from scratch as a challenge and add pictures of m
 Credit to www.skillcrush.com for some great JS project ideas.
 
 ## Tech Used
-* **JavaScript CSS HTML**
+**JavaScript CSS HTML**
 
 ## Purpose
 
