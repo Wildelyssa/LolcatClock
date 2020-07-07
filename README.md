@@ -31,7 +31,7 @@ A 12 hour clock which displays images dependant on different times set by defaul
   Look into the issue and find a fix: possibly add a conditional statement
   
 ## Future Improvements and additions
-** Add message text on photos into a <span> and change using JavaScript to make furture edits easier
+** Add message text on photos into a `<span>` and change using JavaScript to make furture edits easier
 ** Add a "night mode" with sleeping night image, and darker colours
   * Night mode activated by a crescent moon shaped button, and for a set default time using JS
 
