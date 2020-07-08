@@ -23,14 +23,10 @@ A 12 hour clock which displays images dependant on different times set by defaul
 * Default times and images set for morning, afternoon, and evening
 
 ## Improvements and Edits
-* Solved issues:
-* 12 hour clock was showing -12 at midnight: added if statement to display 0
-* Improved responsiveness for mobile
-
 ** Party Button issue:
-  * If event listener has been triggered, party button does not activate. 
-  Tried placing party button code higher up in the code to parse first, but didn't work. 
-  Look into the issue and find a fix: possibly add a conditional statement
+  * If time === selecter.value (event listener has been selected) the party button does not activate. Selecter overrides party button.
+  Tried placing party button code higher up in the code to parse first, but didn't make any difference. 
+  Look into the issue and find a fix: possibly add a conditional statement.
   
 ## Future Improvements and additions
 ** Add caption/quote on photos as `<span>` and change using JavaScript to make furture edits easier
