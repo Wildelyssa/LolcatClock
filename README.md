@@ -1,4 +1,6 @@
 ## Lolcat Clock
+A digital 12 hour clock, with images which change according to corresponding times of the day. Some times are default, such as morning, afternon, and evening. Other times can be set by the user with the selectors below. There is a fun party button feature which has its own corresponding image. 
+
 Practise project idea from a skillcrush blog which lists ideas for JavaScript projects. 
 I have written my own code from scratch as a challenge and used pictures of my cat! The design is fully responsive.
 
@@ -11,7 +13,7 @@ Credit to www.skillcrush.com for some great JS project ideas.
 
 ## Purpose
 
-A 12 hour clock which displays images dependant on different times set by defaults, or set by the user
+A 12 hour clock which displays images dependant on different times set by defaults, or set by the user. 
 
 ## Features
 * Responsive design accross all screen types
