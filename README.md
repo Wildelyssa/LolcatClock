@@ -1,6 +1,6 @@
 ## Lolcat Clock
 Practise project idea from a skillcrush blog which lists ideas for JavaScript projects. 
-I decided to write my own code from scratch as a challenge and add pictures of my cat! 
+I have written my own code from scratch as a challenge and used pictures of my cat! The design is fully responsive.
 
 ## Link to live code: https://wildelyssa.github.io/LolcatClock/
 
@@ -31,7 +31,7 @@ A 12 hour clock which displays images dependant on different times set by defaul
   Look into the issue and find a fix: possibly add a conditional statement
   
 ## Future Improvements and additions
-** Add message text on photos into a `<span>` and change using JavaScript to make furture edits easier
+** Add caption/quote on photos as `<span>` and change using JavaScript to make furture edits easier
 ** Add a "night mode" with sleeping night image, and darker colours
   * Night mode activated by a crescent moon shaped button, and for a set default time using JS
 
