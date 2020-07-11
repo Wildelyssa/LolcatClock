@@ -9,9 +9,9 @@ I have written my own code from scratch as a challenge and used pictures of my c
 Credit to www.skillcrush.com for some great JS project ideas.
 
 ## Tech Used
-**JS**
-**CSS** 
-**HTML**
+* **JS**
+* **CSS** 
+* **HTML**
 
 ## Purpose
 
@@ -25,13 +25,13 @@ A 12 hour clock which displays images dependant on different times set by defaul
 * Default times and images set for morning, afternoon, and evening
 
 ## Improvements and Edits
-** Party Button issue:
+* Party Button issue:
   * If time === selecter.value (event listener has been selected) the party button does not activate. Selecter overrides party button.
   Tried placing party button code higher up in the code to parse first, but didn't make any difference. 
   Look into the issue and find a fix: possibly add a conditional statement.
   
 ## Future Improvements and additions
-** Add caption/quote on photos as `<span>` and change using JavaScript to make furture edits easier
-** Add a "night mode" with sleeping night image, and darker colours
+* Add caption/quote on photos as `<span>` and change using JavaScript to make furture edits easier
+* Add a "night mode" with sleeping night image, and darker colours
   * Night mode activated by a crescent moon shaped button, and for a set default time using JS
 
