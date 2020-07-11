@@ -9,7 +9,7 @@ I have written my own code from scratch as a challenge and used pictures of my c
 Credit to www.skillcrush.com for some great JS project ideas.
 
 ## Tech Used
-**JavaScript**
+**JS**
 **CSS** 
 **HTML**
 
