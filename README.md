@@ -34,7 +34,7 @@ A 12 hour clock which displays images dependant on different times set by defaul
 * Found bugs in responsive when viewing in Safari: fixed and updated
   
 ## Future Improvements and additions
-* Add caption/quote on photos as `<span>` and change using JavaScript to make furture edits easier
+* Add caption/quote on photos as `<span>` and change using JavaScript to make future edits easier
 * Add a "night mode" with sleeping night image, and darker colours
   * Night mode activated by a crescent moon shaped button, and for a set default time using JS
  
