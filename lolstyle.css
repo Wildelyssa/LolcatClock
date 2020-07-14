@@ -73,16 +73,22 @@ footer {
 	text-align: center;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
 
 	.container {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
+		align-items: center;
+		grid-gap: 0.4rem;
 	}
 
 	#partyBtn {
 		width: 30%;
 		font-size: 1.2rem;
+	}
+
+	label {
+		font-size: 0.9rem;
 	}
 }
 
@@ -101,12 +107,19 @@ footer {
 		font-size: 1.5rem;
 	}
 
-	label {
-		padding: 0.5rem 0.5rem 0.5rem 0;
-	}
-
 	#partyBtn {
 		width: 55%;
 		font-size: 1.2rem;
 	}
 }
+
+@media screen and (max-width: 400px) {
+
+	label {
+		padding: 0;
+}
+
+
+
+
+
